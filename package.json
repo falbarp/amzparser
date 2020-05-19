@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/falbarp/amzparser/issues"
   },
-  "homepage": "https://github.com/falbarp/amzparser#readme"
+  "homepage": "https://github.com/falbarp/amzparser#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
