@@ -1,2 +1,2 @@
 # amzparser
-## seller central 
+## parser for seller central 
